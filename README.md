@@ -1,6 +1,8 @@
 # BulletHell-Game
 Simple "Bullet hell" game made in Unity 
-Code in BulletHellCode/Asembly/Scripts
+
+Code in BulletHellCode/Assets/Scripts
+
 To Download game, download directory BulletHellGame
 
 The user launches the application and the game begins, the player moves by pressing WASD. 
