@@ -1,5 +1,7 @@
 # BulletHell-Game
 Simple "Bullet hell" game made in Unity 
+Code in BulletHellCode/Asembly/Scripts
+To Download game, download directory BulletHellGame
 
 The user launches the application and the game begins, the player moves by pressing WASD. 
 The goal of the game is to avoid projectiles hitting the player for as long as possible. 
